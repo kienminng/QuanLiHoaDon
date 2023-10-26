@@ -1,0 +1,12 @@
+{
+  "HoaDon": {
+    "IsNotExist" : "Hoá đơn không tồn tại"
+  },
+  "SanPham" : {
+    "IsNotExist" : "Sản phẩm không tồn tại trong cửa hàng",
+    "OutOfTime" : "Sản phẩm đã quá hạn bán"
+  },
+  "KhachHang" : {
+    "IsNotExist" : "Khách hàng không tồn tại"
+  }
+}
